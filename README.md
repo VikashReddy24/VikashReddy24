@@ -63,7 +63,6 @@ Don't worry if it looks somewhat basic right now.
 
 This is only the **foundation**. Next we'll add the parts that will make it much more like the customized profile you showed:
 
-```text
 🛠️ Tech Stack
 🚀 Featured Projects
 📊 GitHub Statistics
@@ -84,3 +83,36 @@ Machine Learning
 Real-World Projects
      ↓
 Deployment & Practical Applications
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express" />
+</p>
+
+### 🤖 AI / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
